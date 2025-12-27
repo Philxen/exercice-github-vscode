@@ -14,3 +14,11 @@ Voici comment procéder dans Visual Studio Code :
 8. git commit -m "message indiquant les modifications"
 9. git push
 
+Autre option de clonage : 
+| Action                      | Commande                      |
+| --------------------------- | ----------------------------- |
+| Aller dans le dossier cible | `cd ~/main/ojete`             |
+| Cloner                      | `git clone <url>`             |
+| Changer le nom du dossier   | `git clone <url> nouveau_nom` |
+
+
